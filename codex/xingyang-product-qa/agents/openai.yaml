@@ -1,0 +1,7 @@
+interface:
+  display_name: "星阳产品业务问答"
+  short_description: "基于前端仓库回答产品业务、开发历史、模块维护和问题归因问题"
+  default_prompt: "使用 $xingyang-product-qa 从产品业务角度回答这个问题。"
+
+policy:
+  allow_implicit_invocation: true

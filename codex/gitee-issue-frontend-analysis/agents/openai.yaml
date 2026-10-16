@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gitee 前端问题分析"
+  short_description: "结合 Gitee 单问题与前端代码生成责任和风险报告"
+  default_prompt: "使用 $gitee-issue-frontend-analysis 分析这条 Gitee 问题链接，并结合当前项目前端代码生成责任判定和修改风险报告。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modular Feature Development"
+  short_description: "Guide modular feature development with project-fit architecture."
+  default_prompt: "Use $modular-feature-development to implement a new feature module with project-aligned structure and data flow."

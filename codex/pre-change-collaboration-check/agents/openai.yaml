@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pre-change Collaboration Check"
+  short_description: "Check Git contributors before editing shared code"
+  default_prompt: "Use $pre-change-collaboration-check to scan the planned code changes for overlapping contributor history before editing."

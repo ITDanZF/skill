@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding"
+  short_description: "按复杂度选择轻量确认或中文分析文档"
+  default_prompt: "使用 coding skill：按任务复杂度选择轻量对话确认或完整中文分析文档，澄清模糊边界，用户批准后再修改代码，并优先使用快速针对性验证。"

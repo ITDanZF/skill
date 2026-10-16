@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Prototype Rebuild"
+  short_description: "Rebuild static frontend pages from prototype screenshots."
+  default_prompt: "Use $frontend-prototype-rebuild to recreate this prototype image as a static frontend page."
